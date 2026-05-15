@@ -25,9 +25,7 @@ Answer 6. Changes to be committed:
     new file:   answers.md
 
 Answer 7. On branch main
-Untracked files:
-  (use "git add <file>..." to include in what will be committed)
-    .DS_Store
+Your branch is up to date with 'origin/main'.
 
 Answer 8. commit 8598ee6631327d1f6dc17c0a9d874057eca93656 (HEAD -> main)
 Author: Ftrajkovski05-driod <ft608524@ohio.edu>
